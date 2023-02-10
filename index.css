@@ -174,9 +174,8 @@ footer h2 {
     gap: 20px;
 }
 
-.footer-icons img {
+.footer-icons a>img {
     width: 47px;
-    height: 47px;
 }
 
 .footer-right {
